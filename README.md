@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development, DevOps and Cloud Technologies**
 
-- 👨‍💻 All of my projects are available at [tavishbhardwaj.me](tavishbhardwaj.me)
+- 👨‍💻 All of my projects are available at [https://github.com/Tavish-Bhardwaj?tab=repositories](https://github.com/Tavish-Bhardwaj?tab=repositories)
 
 - 💬 Ask me about **NodeJs, Express, MongoDB, React, Java**
 
